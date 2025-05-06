@@ -26,6 +26,10 @@
     "zod": "catalog:"
   },
   "devDependencies": {
-    "@n8n/typescript-config": "workspace:*"
-  }
+    "@n80n/typescript-config": "workspace:*"
+  },
+   "engines": {
+    "node": ">=18.0.0 <20.0.0",
+    "pnpm": ">=10.2.1"
+  },
 }
